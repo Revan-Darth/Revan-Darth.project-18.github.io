@@ -152,3 +152,4 @@
 
 	const adaptivedata = new DynamicAdapt("max");
 	adaptivedata.init();
+   
